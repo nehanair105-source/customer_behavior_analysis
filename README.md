@@ -54,15 +54,3 @@ Includes:
 - Highlighted retention opportunities for returning customers  
 
 
-##  How to Run
-
-```bash
-pip install pandas sqlalchemy psycopg2
-
-1. Run the notebook to clean & load data into PostgreSQL  
-2. Execute SQL queries  
-3. Open `customer_behavior_dashboard.pbix` in Power BI
-
-
-## Skills Demonstrated
-Data Cleaning • ETL • Advanced SQL • Customer Segmentation • BI Dashboarding 
